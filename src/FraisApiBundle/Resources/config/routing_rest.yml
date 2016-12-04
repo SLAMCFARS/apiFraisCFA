@@ -1,0 +1,6 @@
+## YAML Template.
+fichefrais :
+  type: rest
+  resource:     "FraisApiBundle:FichefraisRest"
+  name_prefix:  api_fichefrais_
+
